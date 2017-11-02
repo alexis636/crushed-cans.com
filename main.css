@@ -1,0 +1,68 @@
+.intro {
+      text-align:left;
+      background-color:green;
+      font-family:courier;
+      color:white;
+      width:75%;
+      border-width:5px;
+      border-style:dotted;
+      border-color:yellow;
+      float:right; 
+      border-radius:10px;
+      margin:0 auto;
+      padding:0px;
+    }
+    .header {
+      color:green;
+      font-size: 80px;
+      font-family:Verdana;
+      border-width:5px;
+      border-style:dotted;
+      border-color:red; 
+      border-radius:100px;
+      margin:0 auto;
+      padding:0px;
+    }
+    body   {
+      background-color:grey;
+      text-align:center;
+    }
+    .content {
+      text-align:center;
+      background-color:white;
+      width:90%;
+      height:500px;
+      font-size:12px;
+      border-width:5px;
+      border-style:dashed;
+      border-color:green;
+      margin:0 auto;
+      padding:0px;
+    }
+    .image  {
+      width:100px;
+      border-width:5px;
+      border-style:dashed;
+      border-color:pink;
+      padding:7px;
+      float:left;
+      margin:0 auto;
+    }
+    .paragraph {
+      background-color:red;
+      width:25%;
+      font-family:courier;
+      border-width:5px;
+      border-style:dashed;
+      border-color:blue;
+      Padding:0px;
+      margin:0 auto;
+    }
+    div {
+      border-width:5px;
+      border-style:dashed;
+      border-color:green;
+      padding:0px;
+      margin:0 auto;
+    }
+    
