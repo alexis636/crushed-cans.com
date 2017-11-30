@@ -1,1 +1,146 @@
+h1{
+      color: white;
+      text-shadow: 2px 2px 4px #000000;
+      padding:50px;
+      text-align:center;
+      font-style:italic;
+      color:grey;
+    }
+    h2{
+      text-align:center; 
+    }
+    h3{
+      
+    }
+    h4{
+     
+    }
+    .content1{
+      max-width:800px;
+      width:75%;
+      background-color:pink;
+      padding:5px;
+      border:5px solid purple;
+    }
+    .content2{
+     
+    }
+    .content3{
+      
+    }
+    .content4{
+      
+    }
+    .content5{
+      
+    }
+    .content6{
+      
+    }
+    .content7{
+      
+    }
+    .content8{
+  
+    }
+    .floristshop1{
+      width:200px;
+      height:150px;
+      float:right;
+    }
+    .p1{
+     
+    }
+    .p2{
+     text-align:left;
+    }
+    .p3{
+      text-align:center;
+    }
+    .p4{
+      
+    }
+    .p5{
+      
+    }
+    .p6{
+      
+    }
+    .p7{
+      
+    }
+    .p8{
+  
+    }
+    .bouquet1{
+      width:100px;
+      height:100px;
+    }
+    .bouquet2{
+      width:100px;
+      height:100px;
+      float:;
+    }
+    .bouquet3{
+      width:100px;
+      height:100px;
+      float:;
+    }
+    .bouquet4{
+      width:100px;
+      height:100px;
+      float:;
+    }
+    .bouquet5{
+      width:100px;
+      height:100px;
+      
+    }
+    .customer1{
+      width:150px;
+      height:150px;
+      float:right;
+    }
+    .customer2{
+      width:150px;
+      height:150px;
+      float:right;
+    }
+    .customer3{
+      width:150px;
+      height:150px;
+      float:right;
+    }
+.toolbar{
+  
+}
+.toolbar1{
+  
+}
+table, th, td{
+  border-collapse:collapse;
+  border: 1px solid black
+  
+}
+th, td {
+    padding:20px 50px 20px 50px;
+}
+/* unvisited link */
+a:link {
+    color: purple;
+}
 
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
