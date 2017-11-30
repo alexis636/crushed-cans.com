@@ -1,0 +1,74 @@
+h1{
+      color: white;
+      text-shadow: 2px 2px 4px #000000;
+      padding:50px;
+      text-align:center;
+      font-style:italic;
+      color:grey;
+    }
+.content1{
+      max-width:800px;
+      width:75%;
+      background-color:pink;
+      padding:5px;
+      border:5px solid purple;
+    }
+h2{
+  text-align:center;
+}
+.floristshop{
+  width:250px;
+  height:200px;
+  float:right;
+}
+h3{
+  text-align:center;
+}
+.member1{
+  width:100px;
+  height:100px;
+  float:right;
+}
+.member2{
+  width:100px;
+  height:100px;
+  float:right;
+}
+.member3{
+  width:100px;
+  height:100px;
+  float:right;
+}
+.toolbar{
+  
+}
+.toolbar1{
+  
+}
+table, th, td{
+  border-collapse:collapse;
+  border: 1px solid black
+  
+}
+th, td {
+    padding:20px 50px 20px 50px;
+}
+/* unvisited link */
+a:link {
+    color: purple;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
