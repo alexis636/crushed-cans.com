@@ -21,6 +21,7 @@ h1{
       background-color:pink;
       padding:5px;
       border:5px solid purple;
+      margin: auto;
     }
     .content2{
      
@@ -117,13 +118,16 @@ h1{
 .toolbar1{
   
 }
+table{
+  width:100%
+}
 table, th, td{
   border-collapse:collapse;
   border: 1px solid black
   
 }
 th, td {
-    padding:20px 50px 20px 50px;
+    padding:10px 10px 10px 10px;
 }
 /* unvisited link */
 a:link {
