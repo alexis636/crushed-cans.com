@@ -15,6 +15,7 @@ h1{
       background-color:pink;
       padding:5px;
       border:5px solid purple;
+      margin: auto;
     }
     .content2{
   
@@ -22,28 +23,19 @@ h1{
     .p1{
   
     }
-    table {
+    table{
     width:100%;
     }
-    table, th, td {
+    table, th, td{
     border: 1px solid black;
     border-collapse: collapse;
     }
-    th, td {
+    th, td{
     padding: 5px;
-    text-align: left;
     }
-    .Flower1{
+    .tableflower{
       width:100px;
       height:100px;
-    }
-    .Flower2{
-      width:100px;
-      height:100px;
-    }
-    .Flower3{
-    width:100px;
-    height:100px;
     }
     .p2{
         
@@ -63,18 +55,13 @@ h1{
   
 }
 .toolbar1{
-  
 }
 table{
   
 }
-table, th, td{
-  border-collapse:collapse;
-  border: 1px solid black
-  
-}
+
 th, td#t01{
-    padding:20px 50px 20px 50px;
+    padding:10px 10px 10px 10px;
 }
 /* unvisited link */
 a:link {
