@@ -1,1 +1,26 @@
-
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+.floristshop{
+  width:250px;
+  height:200px;
+  float:right;
+}
+.member1{
+  width:150px;
+  height:150px;
+  float:right;
+}
+.member2{
+  width:150px;
+  height:150px;
+  float:right;
+}
+.member3{
+  width:150px;
+  height:150px;
+  float:right;
+}
