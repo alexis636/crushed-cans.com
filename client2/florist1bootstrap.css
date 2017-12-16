@@ -1,1 +1,47 @@
-
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+.floristshop1{
+      width:200px;
+      height:150px;
+      float:right;
+    }
+.bouquet1{
+      width:100px;
+      height:100px;
+    }
+    .bouquet2{
+      width:100px;
+      height:100px;
+    }
+    .bouquet3{
+      width:100px;
+      height:100px;
+    }
+    .bouquet4{
+      width:100px;
+      height:100px;
+    }
+    .bouquet5{
+      width:100px;
+      height:100px;
+      
+    }
+.customer1{
+      width:150px;
+      height:150px;
+      float:right;
+    }
+    .customer2{
+      width:150px;
+      height:150px;
+      float:right;
+    }
+    .customer3{
+      width:150px;
+      height:150px;
+      float:right;
+    }
