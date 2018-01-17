@@ -67,6 +67,13 @@ h1{
   font-size:20px;
   text-align:center;
 }
+ /* Container 1 Settings */
+   @media (max-width: 600px) {
+    .p1 {
+      font-size: 15px;
+      text-align:center;
+    }
+}
 /* Thumbnail settings */
 .thumbnail {
     padding: 0 0 15px 0;
